@@ -18,6 +18,9 @@
   border-radius:15px;
 }
 
+.nav {
+  padding-right: 440px;
+}
 .navigation {
   list-style-type: none;
   margin: 0;
@@ -26,7 +29,7 @@
 
 .navigation li {
   display: inline;
-  padding: 5px 5px;
+  padding: 5px 3px;
 }
 
 #img-caption{
