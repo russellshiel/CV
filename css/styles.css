@@ -58,7 +58,7 @@
   font-family: 'Handlee', cursive;
   border-radius:15px;
 }
-#about-me h2, #my-codeing-schedule h2, #skills h2, #my-media h2, #contact h2, #follow h2, #education h2{
+#about-me h2, #my-codeing-schedule h2, #skills h2, #my-media h2, #contact h2, #follow h2, #education h2, #courses h2{
   display:inline-block;
   text-align:center;
   border:5px dashed #20bcd5;
@@ -73,7 +73,7 @@
   font-size:25px;
 }
 /*********************************/
-#my-codeing-schedule, #skills, #my-media, #contact, #follow, #education {
+#my-codeing-schedule, #skills, #my-media, #contact, #follow, #education, #courses {
   margin:15px 5px;
   font-family: 'Handlee', cursive;
   border-radius:15px;
@@ -87,16 +87,17 @@ table, th, td, thead {
 }
 /********************************/
 #skills ul h4{
-  font-size:30px;
-  margin-bottom:-4px;
+  font-size:18px;
+  margin-bottom:-19px;
+  margin-top: 0px;
 }
 #skills li{
  // border:1px solid black;
-  margin:20px 5px 10px 5px ;
+  margin:10px 5px 5px 5px ;
 }
 progress {
     width: 70%;
-    height: 30px;
+    height: 10px;
     color: #3fb6b2;
     background: #efefef;
     margin-top:0px;
