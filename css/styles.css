@@ -5,7 +5,7 @@
 /**************************/
 #header{
   margin:15px 5px;
-  font-family: 'Handlee', cursive;
+  font-family: 'Arial', cursive;
   display:flex;
   flex-direction:column;
   justify-content:center;
@@ -65,7 +65,7 @@
 }
 /********************************/
 #about-me{
-  font-family: 'Handlee', cursive;
+  font-family: 'Arial', cursive;
   border-radius:15px;
 }
 #about-me h2, #my-codeing-schedule h2, #skills h2, #my-media h2, #contact-header h2, #follow h2, #education h2, #courses h2{
@@ -78,15 +78,17 @@
 }
 
 #about-me .content{
-  font-size:20px;
+  font-size:18px;
+  padding-left: 10px;
 }
 #about-me .right{
-  font-size:25px;
+  font-size:18px;
+  padding-left: 10px;
 }
 /*********************************/
 #my-codeing-schedule, #skills, #my-media, #contact, #follow, #education, #courses {
   margin:15px 5px;
-  font-family: 'Handlee', cursive;
+  font-family: 'Arial', cursive;
   border-radius:15px;
 }
 tbody td h4{
@@ -186,7 +188,7 @@ background-color :#f0f0f0;
   opacity:0.6;
 }
 #foot{
-  font-family: 'Handlee', cursive;
+  font-family: 'Arial', cursive;
   color:gray;
   font-size:18px;
   margin-top:0px;
