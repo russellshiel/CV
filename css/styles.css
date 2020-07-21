@@ -12,7 +12,8 @@
   align-items:center;
   height:280px;
   background-image: url("https://archaeon90.github.io/CV/images/header-2.jpg") ;
-  background-position: center;
+  background-position: right;
+  background-repeat: no-repeat;
   text-align:center;
   border-radius:15px;
 }
