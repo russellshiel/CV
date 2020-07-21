@@ -67,7 +67,7 @@
   margin:auto 10px;
 }
 #about-me .content{
-  font-size:25px;
+  font-size:20px;
 }
 #about-me .right{
   font-size:25px;
@@ -94,6 +94,9 @@ table, th, td, thead {
 #skills li{
  // border:1px solid black;
   margin:10px 5px 5px 5px ;
+}
+.websites li{
+  list-style-type: none;
 }
 progress {
     width: 70%;
