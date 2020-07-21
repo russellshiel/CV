@@ -58,7 +58,7 @@
   font-family: 'Handlee', cursive;
   border-radius:15px;
 }
-#about-me h2, #my-codeing-schedule h2, #skills h2 , #my-media h2, #contact h2, #follow h2{
+#about-me h2, #my-codeing-schedule h2, #skills h2 , #my-media h2, #contact h2, #follow h2 #Education h2,{
   display:inline-block;
   text-align:center;
   border:5px dashed #20bcd5;
@@ -73,7 +73,7 @@
   font-size:25px;
 }
 /*********************************/
-#my-codeing-schedule, #skills, #my-media , #contact, #follow{
+#my-codeing-schedule, #skills, #my-media , #contact, #follow, #Education{
   margin:15px 5px;
   font-family: 'Handlee', cursive;
   border-radius:15px;
