@@ -68,7 +68,7 @@
   font-family: 'Handlee', cursive;
   border-radius:15px;
 }
-#about-me h2, #my-codeing-schedule h2, #skills h2, #my-media h2, #contact h2, #follow h2, #education h2, #courses h2{
+#about-me h2, #my-codeing-schedule h2, #skills h2, #my-media h2, #contact-header h2, #follow h2, #education h2, #courses h2{
   display:inline-block;
   text-align:center;
   border:5px dashed #20bcd5;
@@ -127,9 +127,16 @@ progress::-moz-progress-bar {
     background: #efefef;
 }
 /********************************/
-#my-media iframe{
-  border:5px solid #3fb6b2;
+#contact {
+
 }
+
+.contact-section {
+  width: 820px;
+  align: center;
+  margin: auto;
+}
+
 #survey-form input, #survey-form #texbox{
 background-color :#f0f0f0;
 
