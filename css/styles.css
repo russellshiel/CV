@@ -74,7 +74,7 @@
 #about-me h2, #my-codeing-schedule h2, #skills h2, #my-media h2, #contact-header h2, #follow h2, #education h2, #courses h2{
   display:inline-block;
   text-align:center;
-  border:5px dashed #20bcd5;
+  border-bottom: 5px dashed #20bcd5;
   padding:10px 15px;+
   color:#20bcd5;
   margin:auto 10px;
