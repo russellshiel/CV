@@ -78,14 +78,15 @@
   padding:10px 15px;+
   color:#20bcd5;
   margin:auto 10px;
+  font-size:25px;
 }
 
 #about-me .content{
-  font-size:18px;
+  font-size:14px;
   padding-left: 10px;
 }
 #about-me .right{
-  font-size:18px;
+  font-size:14px;
   padding-left: 10px;
 }
 /*********************************/
@@ -103,7 +104,7 @@ table, th, td, thead {
 }
 /********************************/
 #skills ul h4{
-  font-size:18px;
+  font-size:16px;
   margin-bottom:-19px;
   margin-top: 0px;
 }
