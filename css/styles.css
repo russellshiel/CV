@@ -17,6 +17,18 @@
   text-align:center;
   border-radius:15px;
 }
+
+.navigation {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.navigation li {
+  display: inline;
+  padding: 5px 5px;
+}
+
 #img-caption{
    // font-size: 25pt;
     color: #3b464c;
@@ -60,7 +72,7 @@
   display:inline-block;
   text-align:center;
   border:5px dashed #20bcd5;
-  padding:20px 15px;+
+  padding:10px 15px;+
   color:#20bcd5;
   margin:auto 10px;
 }
