@@ -157,6 +157,7 @@ table, th, td, thead {
 }
 .websites li{
   list-style-type: none;
+  padding: 7px 0;
 }
 progress {
     width: 70%;
