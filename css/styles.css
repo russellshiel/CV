@@ -152,11 +152,15 @@ table, th, td, thead {
   margin-top: 0px;
 }
 #skills li{
- // border:1px solid black;
-  margin:10px 5px 5px 5px ;
+border:1px solid black;
+margin:10px 5px 5px 5px ;
 }
 .websites li{
   list-style-type: none;
+  padding: 7px 0;
+}
+.work li{
+  list-style-type: disc;
   padding: 7px 0;
 }
 progress {
