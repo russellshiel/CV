@@ -3,6 +3,10 @@
 }
 
 /**************************/
+
+h3 {
+  text-decoration: underline;
+}
 #header{
   margin:15px 5px;
   font-family: 'Arial', cursive;
